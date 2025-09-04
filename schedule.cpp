@@ -1,3 +1,5 @@
+#pragma once
+
 #include "schedule.h"
 #include <sstream>
 #include <stdexcept>
@@ -257,4 +259,5 @@ void Schedule::view_subjects() {
         if (i == subjects.size() - 1) cout << subjects[i] << '\n';
         else cout << subjects[i] << ", ";
     }
+
 }
