@@ -1,3 +1,5 @@
+#pragma once
+
 #define CORRECT_DATE_SIZE 10
 #define DAY_OR_MONTH_SIZE 2
 #define YEAR_SIZE 4
@@ -17,4 +19,5 @@
 #define SEPTEMBER 9
 #define OCTOBER 10
 #define NOVEMBER 11
+
 #define DECEMBER 12
