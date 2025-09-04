@@ -1,5 +1,3 @@
-#pragma once
-
 #include "schedule.h"
 #include <sstream>
 #include <stdexcept>
@@ -261,3 +259,4 @@ void Schedule::view_subjects() {
     }
 
 }
+
